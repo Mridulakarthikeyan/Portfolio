@@ -1,0 +1,1 @@
+My personal portfolio website highlights my technical skills, projects, internships, achievements, and career interests. It provides an overview of my interest in full stack development, the projects I have worked on, and my interest in building user-friendly and practical applications.
